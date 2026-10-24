@@ -1,0 +1,61 @@
+References
+==========
+
+1. Shi, J., & Zhou, S. (2009). Quality control and improvement for
+   multistage systems: A survey. IIE Transactions, 41(9), 744-753.
+   https://doi.org/10.1080/07408170902966344
+
+2. Tsung, F., Li, Y., & Jin, M. (2008). Statistical process control for
+   multistage manufacturing and service operations: A review and some
+   extensions. International Journal of Services Operations and Informatics,
+   3(2), 191-204.
+
+3. Eger, F., Tempel, P., Magnanini, M. C., Reiff, C., Colledani, M., & Verl,
+   A. (2019). Part variation modeling in multi-stage production systems for
+   zero-defect manufacturing. Proceedings of the 25th International Conference
+   on Mechatronics and Machine Vision in Practice (M2VIP).
+
+4. Ismail, M., Mostafa, N. A., & El-Assal, A. (2021). Quality monitoring in
+   multistage manufacturing systems by using machine learning techniques.
+   Journal of Intelligent Manufacturing.
+   https://doi.org/10.1007/s10845-021-01792-1
+
+5. Liu, P., Ma, Y., & Zhang, C. (2024). Stream of variation modeling and
+   monitoring for heterogeneous profiles in multi-stage manufacturing
+   processes. IISE Transactions.
+   https://doi.org/10.1080/24725854.2024.2413122
+
+6. A novel predict-prevention quality control method of multi-stage
+   manufacturing process. (2022). International Journal of Precision
+   Engineering and Manufacturing.
+   https://doi.org/10.1007/s40436-022-00427-9
+
+7. Variation source identification of multistage manufacturing processes.
+   (2015). Journal of Systems Science and Systems Engineering.
+   https://link.springer.com/article/10.7603/s40632-015-0016-5
+
+8. Md, A., et al. (2022). A review on data-driven quality prediction in the
+   production process with machine learning for Industry 4.0. Processes,
+   10(10), 1966.
+   https://doi.org/10.3390/pr10101966
+
+9. Melo, A., et al. (2024). Data-driven process monitoring and fault
+   diagnosis: A comprehensive survey. Processes, 12(2), 251.
+   https://doi.org/10.3390/pr12020251
+
+10. Manufacturing quality assessment in the Industry 4.0 era: A review.
+    (2023). Total Quality Management & Business Excellence.
+    https://doi.org/10.1080/14783363.2023.2194524
+
+11. Deep Koopman-based control of quality variation in multistage
+    manufacturing systems. (2024).
+    https://doi.org/10.48550/arXiv.2407.16933
+
+12. Optimize injection-molding process parameters and build an adaptive
+    process control system based on nozzle pressure profile and clamping
+    force. (2023). Polymers, 15(3), 610.
+    https://doi.org/10.3390/polym15030610
+
+13. Scientific molding and adaptive process quality control with external
+    sensors for injection molding process. (2025). Technologies, 13(3), 97.
+    https://doi.org/10.3390/technologies13030097
